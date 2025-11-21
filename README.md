@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Image](https://github.com/user-attachments/assets/3ae86c86-e637-40ec-9eda-3f302335b2c6)
+![Image](https://github.com/user-attachments/assets/88ab7588-a165-487c-83eb-8545d3012800)
+
 <!--
 **abc1230940/abc1230940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
