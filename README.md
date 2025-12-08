@@ -1,4 +1,4 @@
-## Hi there 👋
+# <span style="color:#39FF14"> 👾 &nbsp;H&nbsp;i&nbsp;  T&nbsp;h&nbsp;3&nbsp;r&nbsp;e </span> 
 
 ![Image](https://github.com/user-attachments/assets/88ab7588-a165-487c-83eb-8545d3012800)
 
@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👾 &nbsp;Some T00ls I H@ve Us3d and Learn3d</h3>
+<p align="left">
+
+<h3> 👾 &nbsp;C&nbsp;e&nbsp;r&nbsp;t&nbsp;i&nbsp;f&nbsp;i&nbsp;c&nbsp;@&nbsp;t&nbsp;i&nbsp;0&nbsp;n&nbsp;s </h3>
+<p align="left">
