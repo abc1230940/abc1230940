@@ -1,4 +1,4 @@
-# <span style="color:#39FF14"> 👾 &nbsp;H&nbsp;i&nbsp;  T&nbsp;h&nbsp;3&nbsp;r&nbsp;e </span> 
+# <span style="color:#39FF14"> 👾 &nbsp;H&nbsp;i&nbsp;&nbsp;&nbsp;T&nbsp;h&nbsp;3&nbsp;r&nbsp;e </span> 
 
 ![Image](https://github.com/user-attachments/assets/88ab7588-a165-487c-83eb-8545d3012800)
 
@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 👾 &nbsp;Some T00ls I H@ve Us3d and Learn3d</h3>
+<h3> 👾 &nbsp;S&nbsp;o&nbsp;m&nbsp;e&nbsp;&nbsp;&nbsp;T&nbsp;0&nbsp;0&nbsp;l&nbsp;s&nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;H&nbsp;@&nbsp;v&nbsp;e&nbsp;&nbsp;&nbsp;U&nbsp;s&nbsp;3&nbsp;d&nbsp;&nbsp;&nbsp;a&nbsp;n&nbsp;d&nbsp;&nbsp;&nbsp;L&nbsp;e&nbsp;a&nbsp;r&nbsp;n&nbsp;3&nbsp;d&nbsp;</h3>
 <p align="left">
 
 <h3> 👾 &nbsp;C&nbsp;e&nbsp;r&nbsp;t&nbsp;i&nbsp;f&nbsp;i&nbsp;c&nbsp;@&nbsp;t&nbsp;i&nbsp;0&nbsp;n&nbsp;s </h3>
 <p align="left">
 
-<h3> 👾 &nbsp;Featured Projects
+<h3> 👾 &nbsp;F&nbsp;e&nbsp;a&nbsp;t&nbsp;u&nbsp;r&nbsp;e&nbsp;d&nbsp;&nbsp;&nbsp;P&nbsp;r&nbsp;o&nbsp;j&nbsp;e&nbsp;c&nbsp;t&nbsp;s&nbsp;
 
-<h3> 👾 &nbsp;My Github History</h3>
+<h3> 👾 &nbsp;M&nbsp;y&nbsp;&nbsp;&nbsp;G&nbsp;i&nbsp;t&nbsp;h&nbsp;u&nbsp;b&nbsp;&nbsp;&nbsp;H&nbsp;i&nbsp;s&nbsp;t&nbsp;o&nbsp;r&nbsp;y&nbsp;</h3>
 <p align="left">
 <img alt="snake" src="https://github.com/abc1230940/abc1230940/raw/output/github-snake-dark.svg" />
 
-<h3> 👾 &nbsp;Ping</h3>
+<h3> 👾 &nbsp;P&nbsp;i&nbsp;n&nbsp;g&nbsp;</h3>
 <p align="left">
