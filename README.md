@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <h3> 👾 &nbsp;My Github History</h3>
 <p align="left">
+<img alt="snake" src="https://github.com/abc1230940/abc1230940/raw/output/github-snake-dark.svg" />
 
 <h3> 👾 &nbsp;Ping</h3>
 <p align="left">
