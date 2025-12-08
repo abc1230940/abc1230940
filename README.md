@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 
 <h3> 👾 &nbsp;C&nbsp;e&nbsp;r&nbsp;t&nbsp;i&nbsp;f&nbsp;i&nbsp;c&nbsp;@&nbsp;t&nbsp;i&nbsp;0&nbsp;n&nbsp;s </h3>
 <p align="left">
+
+<h3> 👾 &nbsp;Featured Projects
+
+<h3> 👾 &nbsp;My Github History</h3>
+<p align="left">
+
+<h3> 👾 &nbsp;Ping</h3>
+<p align="left">
