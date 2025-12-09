@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3> 👾 &nbsp;M&nbsp;y&nbsp;&nbsp;&nbsp;G&nbsp;i&nbsp;t&nbsp;h&nbsp;u&nbsp;b&nbsp;&nbsp;&nbsp;H&nbsp;i&nbsp;s&nbsp;t&nbsp;o&nbsp;r&nbsp;y&nbsp;</h3>
 <p align="left">
-<img align="left" alt="Clarence's Github Stats" src="https://github-readme-stats-nine-chi-26.vercel.app/api?username=abc1230940&show_icons=true&hide_border=true&theme=cobalt&bg_color=00000000" />  <img align="left" src="https://github-readme-stats-nine-chi-26.vercel.app/api/top-langs?username=abc1230940&theme=cobalt&bg_color=00000000&hide_border=true&layout=compact&card_width=390" />
+<img align="left" alt="Clarence's Github Stats" src="https://github-readme-stats-nine-chi-26.vercel.app/api?username=abc1230940&show_icons=true&hide_border=true&theme=cobalt&bg_color=00000000" />  <img align="left" src="https://github-readme-stats-nine-chi-26.vercel.app/api/top-langs?username=abc1230940&theme=cobalt&bg_color=00000000&hide_border=true&layout=compact" />
 <img alt="snake" src="https://github.com/abc1230940/abc1230940/raw/output/github-snake-dark.svg" />
 
 <h3> 👾 &nbsp;P&nbsp;i&nbsp;n&nbsp;g&nbsp;</h3>
