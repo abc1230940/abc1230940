@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/88ab7588-a165-487c-83eb-8545d3012800)
 
-<h2 align="center">💬&nbsp;C&nbsp;o&nbsp;n&nbsp;n&nbsp;e&nbsp;c&nbsp;t&nbsp;&nbsp;&nbsp;W&nbsp;i&nbsp;t&nbsp;h&nbsp;&nbsp;&nbsp;M&nbsp;e&nbsp;&nbsp;&nbsp;A&nbsp;n&nbsp;d&nbsp;&nbsp;&nbsp;H&nbsp;a&nbsp;v&nbsp;e&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;C&nbsp;h&nbsp;a&nbsp;t&nbsp;&nbsp;!</h2> <br>
+<h2 align="center">💬&nbsp;C&nbsp;0&nbsp;n&nbsp;n&nbsp;e&nbsp;c&nbsp;t&nbsp;&nbsp;&nbsp;W&nbsp;i&nbsp;t&nbsp;h&nbsp;&nbsp;&nbsp;M&nbsp;e&nbsp;&nbsp;&nbsp;A&nbsp;n&nbsp;d&nbsp;&nbsp;&nbsp;H&nbsp;a&nbsp;v&nbsp;e&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;C&nbsp;h&nbsp;a&nbsp;t&nbsp;&nbsp;!</h2> <br>
 <p align="center"> 
   <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/7ab6e12b-ca8a-4aa6-8f10-79ba89d485b5" />
   <img width="50" height="50" alt="Gmail" src="https://github.com/user-attachments/assets/4e0491ce-239c-413c-b433-74a5ff48f231" />
