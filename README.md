@@ -2,9 +2,15 @@
 
 <h2 align="center">💬&nbsp;C&nbsp;0&nbsp;n&nbsp;n&nbsp;e&nbsp;c&nbsp;t&nbsp;&nbsp;&nbsp;W&nbsp;i&nbsp;t&nbsp;h&nbsp;&nbsp;&nbsp;M&nbsp;e&nbsp;&nbsp;&nbsp;A&nbsp;n&nbsp;d&nbsp;&nbsp;&nbsp;H&nbsp;a&nbsp;v&nbsp;e&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;C&nbsp;h&nbsp;a&nbsp;t&nbsp;&nbsp;!</h2> <br>
 <p align="center"> 
-  <img width="50" height="50" alt="LinkedIn" src="https://www.linkedin.com/in/clarence-fong" />
-  <img width="50" height="50" alt="Gmail" src="abc1230940@gmail.com" />
-  <img width="50" height="50" alt="Instagram Old" src="https://github.com/user-attachments/assets/62e4672b-d424-4489-a204-c301040905a3" />
+  <a href="https://www.linkedin.com/in/clarence-fong" target="_blank">
+    <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/7ab6e12b-ca8a-4aa6-8f10-79ba89d485b5" />
+  </a>
+  <a href="mailto:abc1230940@gmail.com">
+    <img width="50" height="50" alt="Gmail" src="https://github.com/user-attachments/assets/4e0491ce-239c-413c-b433-74a5ff48f231" />
+  </a>
+  <a href="https://www.instagram.com/cyberbrexel?igsh=MXNxeWJid2VxZWxxaw%3D%3D&utm_source=qr" target="_blank">
+    <img width="50" height="50" alt="Instagram Old" src="https://github.com/user-attachments/assets/62e4672b-d424-4489-a204-c301040905a3" />
+  </a>
   <img width="50" height="50" alt="Discord" src="https://github.com/user-attachments/assets/f76173ca-fad3-4390-bca1-5c2305bc748e" />  
   <img width="50" height="50" alt="Reddit" src="https://github.com/user-attachments/assets/6e9bd985-dfa3-4349-b966-4cf49362bd61" />
 </p> <br>
