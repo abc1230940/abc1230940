@@ -52,9 +52,12 @@ Here are some ideas to get you started:
 <small> - Certificate of IT Coding Bootcamp Java Enterprise Development and Data Engineering </small> <br>
 
 <h3 align="left"> 👾 &nbsp;F&nbsp;e&nbsp;a&nbsp;t&nbsp;u&nbsp;r&nbsp;e&nbsp;d&nbsp;&nbsp;&nbsp;P&nbsp;r&nbsp;o&nbsp;j&nbsp;e&nbsp;c&nbsp;t&nbsp;s&nbsp; </h3> <br>
+<p> TryHackMe (Top 1%) </p>
 <a href="https://tryhackme.com/p/abc1230940" align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/abc1230940.png" alt="Your Image Badge" />
 </a>
+<p> Python </p>
+<p><a href="https://github.com/abc1230940/web-server-port-alerter"> Port Scanner for Blue Team </a></p>
 <br>
 
 <h3 align="left"> 👾 &nbsp;W&nbsp;r&nbsp;i&nbsp;t&nbsp;e&nbsp;-&nbsp;u&nbsp;p&nbsp;s&nbsp; </h3> <br>
