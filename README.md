@@ -57,7 +57,10 @@ Here are some ideas to get you started:
   <img src="https://tryhackme-badges.s3.amazonaws.com/abc1230940.png" alt="Your Image Badge" />
 </a>
 <p> Python </p>
-<p><a href="https://github.com/abc1230940/web-server-port-alerter"> Port Scanner for Blue Team </a></p>
+<ul>
+  <li><a href="https://github.com/abc1230940/web-server-port-alerter"> Port Scanner for Blue Team </a></li>
+</ul>
+
 <br>
 
 <h3 align="left"> 👾 &nbsp;W&nbsp;r&nbsp;i&nbsp;t&nbsp;e&nbsp;-&nbsp;u&nbsp;p&nbsp;s&nbsp; </h3> <br>
