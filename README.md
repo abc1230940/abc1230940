@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="https://github.com/abc1230940/web-server-port-alerter"> Port Scanner for Blue Team </a></li>
   <li><a href="https://github.com/abc1230940/malware_scanner"> Malware Scanner for Blue Team </a> </li>
+  <li> <a href="https://github.com/abc1230940/file_integrity_monitor"> File Integrity Monitor </li>
 </ul>
 
 <br>
