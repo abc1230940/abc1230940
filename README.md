@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 <br>
 
 <h3 id="#write-ups" align="left"> 👾 &nbsp;W&nbsp;r&nbsp;i&nbsp;t&nbsp;e&nbsp;-&nbsp;u&nbsp;p&nbsp;s&nbsp; </h3> <br>
+<ul>
+  <li> <a href="https://github.com/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298"> SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298 </li>
+</ul>
 <br>
 
 <h3 id="#my-github-histort" align="left"> 👾 &nbsp;M&nbsp;y&nbsp;&nbsp;&nbsp;G&nbsp;i&nbsp;t&nbsp;h&nbsp;u&nbsp;b&nbsp;&nbsp;&nbsp;H&nbsp;i&nbsp;s&nbsp;t&nbsp;o&nbsp;r&nbsp;y&nbsp;</h3>
