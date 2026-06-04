@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 id="certifications" align="left"> 👾 &nbsp;C&nbsp;e&nbsp;r&nbsp;t&nbsp;i&nbsp;f&nbsp;i&nbsp;c&nbsp;@&nbsp;t&nbsp;i&nbsp;0&nbsp;n&nbsp;s </h3>
+<small> - TryHackMe Security Analyst Level 1 (SAL1) </small>
 <small> - TryHackMe Jr. Penetration Tester (PT1) (In Progress) </small> <br>
 <small> - Microsoft Azure Fundamentals (AZ-900) </small> <br>
 <small> - CompTIA Security+ (SY0-701) </small> <br>
