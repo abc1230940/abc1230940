@@ -59,7 +59,9 @@ Here are some ideas to get you started:
 </a>
 
 <p> CyberDefenders </p>
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/abc1230940.png" width="300" />
+<a href="https://cyberdefenders.org/p/abc1230940" align="left">
+  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/abc1230940.png" width="300" />
+</a>
 <p> Python </p>
 <ul>
   <li> <a href="https://github.com/abc1230940/web-server-port-alerter"> Port Scanner for Blue Team </a> </li>
