@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 <h3 id="certifications" align="left"> 👾 &nbsp;C&nbsp;e&nbsp;r&nbsp;t&nbsp;i&nbsp;f&nbsp;i&nbsp;c&nbsp;@&nbsp;t&nbsp;i&nbsp;0&nbsp;n&nbsp;s </h3>
 <img width="50" height="50" alt="security-analyst-level-1-sal1" src="https://github.com/user-attachments/assets/c1c16902-d8ec-4741-aaa8-67e63433b5e7" /> <small> - TryHackMe Security Analyst Level 1 (SAL1) </small> <br>
 <small> - TryHackMe Jr. Penetration Tester (PT1) (In Progress) </small> <br>
-<img width="50" height="50" alt="microsoft-certified-fundamentals-badge" src="https://github.com/user-attachments/assets/cf8fcabb-edfa-4324-bdeb-e1a36e96e535" /> <small> - Microsoft Azure Fundamentals (AZ-900) </small> <br>
+<img width="50" height="50" alt="microsoft-certified-fundamentals-badge" src="https://github.com/user-attachments/assets/d5dd807a-3a9d-48c3-8049-a16a346ebe1c" />  <small> - Microsoft Certified Security, Compliance, and Identity Fundamentals (SC-900) </small> <br>
+<img width="50" height="50" alt="microsoft-certified-fundamentals-badge" src="https://github.com/user-attachments/assets/cf8fcabb-edfa-4324-bdeb-e1a36e96e535" /> <small> - Microsoft Certified Azure Fundamentals (AZ-900) </small> <br>
 <img width="50" height="50" alt="Security+-png" src="https://github.com/user-attachments/assets/add85baf-0eb3-4f59-aacc-db8b2d152e99" /> <small> - CompTIA Security+ (SY0-701) </small> <br>
 <img width="50" height="50" alt="Network+-png" src="https://github.com/user-attachments/assets/3ee1077f-dc59-4b55-bef5-06e58f620459" /> <small> - CompTIA Network+ (N10-009) </small> <br>
 <small> - Certificate of IT Coding Bootcamp Java Enterprise Development and Data Engineering </small> <br>
