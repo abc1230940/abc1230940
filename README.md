@@ -74,9 +74,14 @@ Here are some ideas to get you started:
 <br>
 
 <h3 id="#write-ups" align="left"> 👾 &nbsp;W&nbsp;r&nbsp;i&nbsp;t&nbsp;e&nbsp;-&nbsp;u&nbsp;p&nbsp;s&nbsp; </h3> <br>
+<p> LetsDefend </p>
 <ul>
   <li> <a href="https://github.com/abc1230940/SOC211-Utilman.exe-Winlogon-Exploit-Attempt"> SOC211-Utilman.exe-Winlogon-Exploit-Attempt </li>
   <li> <a href="https://github.com/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298"> SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298 </li>
+</ul>
+<p> CyberDefenders </p>
+<ul>
+  <li> CyberDefenders Write-up: BlackEnergy </li>      
 </ul>
 <br>
 
