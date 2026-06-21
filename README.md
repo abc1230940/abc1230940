@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 </ul>
 <p> CyberDefenders </p>
 <ul>
-  <li> CyberDefenders Write-up: BlackEnergy </li>      
+  <li> <a href="https://github.com/abc1230940/CyberDefenders-BlackEnergy"> CyberDefenders Write-up: BlackEnergy </a> </li>      
 </ul>
 <br>
 
