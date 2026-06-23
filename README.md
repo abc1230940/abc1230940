@@ -85,6 +85,7 @@ Here are some ideas to get you started:
   <li> <a href="https://github.com/abc1230940/CyberDefenders-BlueSky-Ransomware"> CyberDefenders Write-up: BlueSky Ransomware </a> </li>
   <li> <a href="https://github.com/abc1230940/CyberDefenders-PacketMaze"> CyberDefenders Write-up: PacketMaze </a> </li>
   <li> <a href="https://github.com/abc1230940/CyberDefenders-Brave"> CyberDefenders Write-up: Brave </a> </li>
+  <li> <a href="https://github.com/abc1230940/CyberDefenders-KrakenKeylogger"> CyberDefenders Write-up: KrakenKeylogger </a> </li>
 </ul>
 <br>
 
