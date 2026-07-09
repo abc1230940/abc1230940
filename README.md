@@ -70,6 +70,10 @@ Here are some ideas to get you started:
   <li> <a href="https://github.com/abc1230940/malware_scanner"> Malware Scanner for Blue Team </a> </li>
   <li> <a href="https://github.com/abc1230940/file_integrity_monitor"> File Integrity Monitor </li>
 </ul>
+<p> AI Automation Tools </p>
+<ul>
+  <li> <a href="https://github.com/abc1230940/ai-phishing-email-analyzer"> AI Phishing Email Analyzer </a> </li>
+</ul>
 
 <br>
 
