@@ -92,6 +92,7 @@ Here are some ideas to get you started:
   <li> <a href="https://github.com/abc1230940/CyberDefenders-KrakenKeylogger"> CyberDefenders Write-up: KrakenKeylogger </a> </li>
   <li> <a href="https://github.com/abc1230940/CyberDefenders-Phishy"> CyberDefenders Write-up: Phishy </a> </li>
   <li> <a href="https://github.com/abc1230940/CyberDefenders-3CX-Supply-Chain"> CyberDefenders Write-up: 3CX Supply Chain </li>
+  <li> <a href="https://github.com/abc1230940/CyberDefenders-LGDroid"> CyberDefenders Write-up: LGDroid </li>
 </ul>
 <br>
 
